@@ -1,8 +1,8 @@
 ## Let's make things easy
 
-This page is to update the current [submission form](https://www.eou.edu/admissions/requestinfo/)
+The goal of this page is to update the current [submission form](https://www.eou.edu/admissions/requestinfo/)
 
-### Current Page Looks Like
+### Which Looks Like
 
 
 ![Image](src)
